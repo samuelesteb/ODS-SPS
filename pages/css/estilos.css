@@ -221,7 +221,7 @@ body {
     --color-items: #696871;
 }
 
-.price__element--best{
+.price__element:hover{
     width: 370px;
     padding: 60px 40px;
     background-color: #FF7143;
